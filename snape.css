@@ -1,0 +1,80 @@
+.color{
+color: rgb(255, 0, 0);
+text-align: center;
+text-transform: capitalize;
+
+}
+body{
+    background-color: black;
+    
+}
+.picture{
+text-align: center;
+width: 389px;
+height: 218px;
+margin-left: 35%;
+
+/* background-image: url('data:image/jpeg;base64,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'); */
+background-size:contain;
+background-repeat: no-repeat;
+filter: drop-shadow(2px 2px 5px rgb(250, 4, 4));
+}
+.image{
+    background-image: url('https://wallpapers.com/images/hd/deathly-hallows-movie-harry-potter-desktop-68yxa4iknqssp68u.jpg');
+    background-attachment: scroll;
+}
+.video{
+    width: 500px;
+    height: 400px;
+     margin-left: 30%;
+     filter: drop-shadow(5px 5px 10px red);
+}
+.sound{
+    width: 500px;
+    height:400px;
+    margin-left: 30%;
+    filter: drop-shadow(5px 5px 10px red);
+}
+.qwe{
+    filter: drop-shadow(5px 5px 10px red);
+}
+.name::placeholder{
+    color:red;
+    background-color: aqua;
+
+}
+input[type="text"]
+{
+    color: rgb(253, 0, 118);
+}
+.harry{
+    text-align:center;
+    box-shadow: 20px 40px 100px red;
+    text
+}
+.harry tr td:nth-child(2n) {
+   background-color: rgb(189, 201, 21); 
+}
+.harry tr td:nth-last-child(2n){
+    background-color: rgb(255, 238, 0);
+}
+.block{
+    /* background-image: url('https://wallpapers.com/images/hd/deathly-hallows-movie-harry-potter-desktop-68yxa4iknqssp68u.jpg'); */
+    width: 20px;
+    height: 20px;
+    /* transition: active 1ms ease-in-out;  */
+    /* transform:active scale(2) */
+    transition-duration: 5s; 
+    transform: rotate(50deg); 
+    
+
+}
+.block:hover{
+    width: 90px;
+    height: 90px;
+    border-radius: 4000px; 
+    /* transform: scale(2); */
+    /* transform: rotate((calc360*10)); */
+     /* transform: rotate((calc 30*3));  */
+     
+}

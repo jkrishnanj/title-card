@@ -1,0 +1,12 @@
+#abc{
+    color:red;
+    text-transform: capitalize;
+    font-size: 50px;
+    font-style: italic;
+}
+.html{
+    color:black;
+    font: bold;
+    font-style: italic;
+    text-transform: capitalize;
+}

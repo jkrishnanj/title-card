@@ -1,0 +1,26 @@
+.abc{
+    color:blue;
+    text-align: center;
+    text-indent: 100px;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: 70%;
+    text-transform: capitalize;  
+    text-align: center;  
+    max-height:50%;
+
+
+
+
+
+
+    
+    
+}
+#rty{
+    color: rgb(255, 0, 0);
+    font-style:normal;
+    background-color: aqua;
+    
+    text-decoration: solid;
+    text: indent 100px;;
+}

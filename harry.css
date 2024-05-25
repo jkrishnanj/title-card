@@ -1,0 +1,48 @@
+.email{
+    width: 200px;
+    height: 20px;
+    margin :10px;
+}
+.password{
+    width: 200px;
+    height: 20px;
+}
+.asd{
+    color: white;
+    background-color: blue;
+    border-radius: 5px;
+    width: 200px;
+    height: 20px;
+}
+p{
+    color: rgb(3, 99, 112);
+    font-weight: bold;
+    text-transform: capitalize;
+
+}
+.account{
+    background-color: rgb(27, 180, 27);
+    color: white;
+    border-radius: 5px;
+}
+#zxc{
+    color: black;
+}
+body{
+    text-align: center;
+    margin: auto;
+    width: 40%;
+    margin-top: 19%;
+    
+    
+    
+}
+.box{
+    background-color: rgb(251, 253, 253);
+    box-shadow: 5px 4px 20px black;
+    border-radius: 10px 10px;
+    
+}
+*{
+    box-sizing: border-box; 
+}

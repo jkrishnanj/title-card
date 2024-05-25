@@ -1,0 +1,104 @@
+*{background-color: black;
+ background-color: rgb(202, 152, 248);
+     margin: 0px; 
+    
+}
+.color{
+    background-color:rgb(202, 152, 248);
+    width: 900px;
+    margin-left: 250px;
+    padding-bottom: 30px;
+}
+#box{
+    width: 305px;
+    height: 520px;
+    background-color: white;
+    margin-left: 34%; 
+    margin-top: 1%;
+    padding-bottom: 0.1%;
+    border-radius: 7%;
+    
+    
+    
+    
+    
+}
+.card{
+    background-color: rgb(202, 152, 248);
+    color: white;
+    text-align: center;
+    font-size: xx-large;
+    font-family: monospace;
+    font-size: 60px;
+    margin-top: 30px;
+    letter-spacing: 0.5px;
+    word-spacing: -10px;
+
+}
+.photo{
+    margin-left: 86%;
+    margin-top: -100px;
+    background-color: rgb(255, 255, 255);
+    
+    
+}
+.newphoto{
+    
+    margin-left: 30px;
+    margin-top: 18px;
+    background-color: white;
+    
+}
+.prophoto{
+    background-color: white;
+    margin-left: 20%;
+    margin-top: -9%;
+    /* filter: drop-shadow(-10px 30px 50px black) */
+}
+#font{
+    background-color: white;
+    font-family: monospace;
+    margin-left: 20px;
+}
+.lorem{
+    background-color: white;
+    font-family:monospace;
+    font-size: 18px;
+    font-weight: 6px;
+    margin-left: 20px;
+    color: rgb(201, 200, 200);
+    letter-spacing: -2px;
+    word-spacing: 1px;
+
+}
+.star{
+     background-color: white;
+}
+.ruppe{
+    background-color: white;
+    text-align: center;
+    font-family:'Courier New', Courier, monospace;
+    letter-spacing: -3px;
+}
+.supere{
+    background-color: white;
+    color: rgb(78, 180, 78);
+    font-family: 'Times New Roman', Times, serif;
+}
+.cart{
+    width: 260px;
+    height: 34px;
+    background-color: rgb(202, 152, 248);;
+    border-radius: 50px;
+    color: rgb(238, 228, 228);
+    margin-left: 15px;
+    text-align:center;
+    font-family: monospace;
+    font-size: 20px;
+    font-weight: 200px;
+
+    
+    
+}
+
+

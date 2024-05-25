@@ -1,0 +1,124 @@
+.jk{
+    font-weight: bold;
+    color: blue;
+    text-decoration: solid;
+    font-size: large;
+    background-color: black;
+    text-align: center;}
+.qwe{
+    background-color: black ;
+    border: 250px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    text-align: center;
+    text-decoration: underline;
+    color:red;
+    text-transform: capitalize;
+}
+.asd{
+    text-transform: capitalize;
+    font-style: italic;
+    
+color: linear-gradient(45deg, rgba(250,138,247,1) -12%, rgba(152,222,215,1) 0%, rgba(228,240,23,1) 0%, rgba(34,195,145,1) 0%, rgba(186,54,99,0.8883928571428571) 0%, rgba(255,255,255,1) 0%, rgba(168,52,221,1) 0%, rgba(194,76,116,1) 0%, rgba(190,66,107,1) 0%, rgba(191,69,110,1) 0%, rgba(0,249,229,1) 0%);;
+    text-align:justify;
+}
+#zxc{
+    color: rgb(1, 1, 17);
+    font-style: italic;
+    text-transform: capitalize;
+}
+.poi{
+    color: rgb(255, 0, 0);
+    text-decoration: underline rgb(0, 0, 0);
+}
+.mnb{
+    text-align: justify;
+    font-weight: bold;
+    font-style: italic;
+    color: rgb(83, 4, 119);
+}
+.jkl{
+    color:rgb(255, 0, 0);
+    text-decoration: underline black;
+    
+    text-transform: capitalize;
+    
+    
+
+}
+.tyu{
+    /* background: rgb(195, 34, 34); */
+
+    text-align: center;
+    color: rgb(173, 22, 22);
+}
+#fgh{
+    background-color: rgb(0, 0, 0) ;
+    color: rgb(6, 252, 6);
+    
+}
+.dcv{
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 238, 0);
+}
+.awe{
+    text-align: center;
+    color: rgb(64, 6, 97);
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+#fafa{
+    background-image: rgb(217, 255, 0) url(https://upload.wikimedia.org/wikipedia/commons/c/c1/Fazil.jpg);
+    margin-left: 500px;
+    background-image: repeating-linear-gradient
+
+}
+.rty{
+    text-align: center;
+    text-transform: capitalize;
+    text-decoration: underline;
+    color: rgb(7, 7, 7);
+    text-underline-position: initial;
+
+}
+#vbn{
+    color: rgb(34, 32, 32);
+    text-align: center;
+    text-decoration: solid;
+    /* text-decoration: underline; */
+}
+#poli{
+    font-size:20px;
+    font-style: italic;
+}
+body{
+   background-color: pink;
+   background-attachment: scroll;
+
+}
+.qpw{
+    font-style: italic;
+    font-size: 20px;
+
+}
+.tiger{
+border-radius: 50% 50%;
+}
+.minnal{
+    box-shadow: inset -20px 30px 50px rgba(87, 0, 187, 0.884);
+}
+#lion{
+    box-shadow: inset -60px 50px 80px rgba(247, 2, 2, 0.884);
+}
+.light{
+    box-shadow: inset -70px 90px 100px rgb(0, 0, 0);
+}
+.kerala{
+    font-family: monospace;
+    color: rgb(3, 3, 150);
+    text-align: center;
+    text-transform: capitalize;
+    
+/* color: linear-gradient(45deg, rgba(250,138,247,1) -12%, rgba(228,240,23,1) 0%, rgba(34,195,145,1) 0%, rgba(186,54,99,0.8883928571428571) 0%, rgba(255,255,255,1) 0%, rgba(168,52,221,1) 0%, rgba(194,76,116,1) 0%, rgba(190,66,107,1) 0%, rgba(191,69,110,1) 0%, rgba(0,249,229,1) 0%, rgba(255,0,14,1) 0%, rgba(245,64,83,1) 0%, rgba(255,0,254,1) 0%, rgba(146,255,0,1) 23%, rgba(194,111,2,1) 42%, rgba(224,32,3,1) 56%, rgba(245,117,4,1) 66%); */
+
+}
